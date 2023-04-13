@@ -1,0 +1,2 @@
+# shok
+For entertainment 
